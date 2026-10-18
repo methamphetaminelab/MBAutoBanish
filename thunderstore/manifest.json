@@ -1,7 +1,7 @@
 {
   "name": "AutoBanish",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/methamphetaminelab/AutoBanish",
+  "website_url": "https://github.com/methamphetaminelab/MBAutoBanish",
   "description": "Mark items, weapons and tomes in an in-game menu (F6) and they get banished automatically when a chest or a level-up offers them.",
   "dependencies": [
     "BepInEx-BepInExPack_IL2CPP-6.0.788"
